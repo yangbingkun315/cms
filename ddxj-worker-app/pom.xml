@@ -35,20 +35,6 @@
 		      <artifactId>guava</artifactId>
 		      <version>18.0</version>
 	    </dependency>
-	    <dependency>
-			<groupId>com.opensdk</groupId>
-			<artifactId>open-sdk</artifactId>
-			<scope>system</scope>
-			<version>1.0.8</version>
-			<systemPath>${project.basedir}/src/libs/open-sdk.1.0.8.jar</systemPath>
-		</dependency>
-		<dependency>
-			<groupId>com.sadk</groupId>
-			<artifactId>sadk</artifactId>
-			<scope>system</scope>
-			<version>3.2.0.5</version>
-			<systemPath>${project.basedir}/src/libs/sadk-3.2.0.5.jar</systemPath>
-		</dependency>
   </dependencies>
   <build>
   	<finalName>worker-app</finalName>
