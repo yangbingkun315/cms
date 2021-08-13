@@ -155,7 +155,7 @@
 		<dependency>
 		    <groupId>org.bouncycastle</groupId>
 		    <artifactId>bcprov-jdk15on</artifactId>
-		    <version>1.54</version>
+		    <version>1.67</version>
 		</dependency>
 		<!-- 引入poi，解析workbook视图 -->
         <dependency>
